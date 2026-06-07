@@ -1,0 +1,8 @@
+{
+  "name": "Wedding Guest Management",
+  "description": "Dashboard manajemen tamu pernikahan dengan check-in foto, statistik kehadiran, pencarian, pendataan pendamping, dan impor massal.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
